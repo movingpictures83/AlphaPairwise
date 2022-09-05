@@ -1,0 +1,2 @@
+Prefix plugins/AlphaPairwise/example/
+Plugin AlphaPairwise inputfile parameters.txt outputfile alphapairwise.png

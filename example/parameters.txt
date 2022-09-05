@@ -1,0 +1,4 @@
+inputfile	ABR_profile_sorted.csv
+index	invsimpson
+categories	categories.txt
+pairs	pairs.txt
